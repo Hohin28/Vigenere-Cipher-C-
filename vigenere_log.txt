@@ -1,0 +1,24 @@
+Plaintext: cipher is good
+Key: key
+Ciphertext: mmnrip sw eysb
+
+Plaintext: did this work
+Key: maybe
+Ciphertext: pib ulus upvw
+
+Plaintext: hihin
+Key: hjh
+Ciphertext: oropw
+
+Plaintext: hohin is a good boy
+Key: kabilan
+Ciphertext: roiqy if k gpwo bbi
+
+Plaintext: hohin is a good boy
+Key: kabilan
+Ciphertext: roiqy if k gpwo bbi
+
+Plaintext: fihohjhf hohin
+Key: sjkd
+Ciphertext: xrrrzsri zxrlf
+

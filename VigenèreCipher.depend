@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1743663845 source:c:\users\hohin.j\onedrive\desktop\vigenèrecipher\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
